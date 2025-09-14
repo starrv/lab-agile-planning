@@ -1,2 +1,2 @@
-# lab-agile-planning
-lab-agile-planning
+# Lab Agile Planning
+
